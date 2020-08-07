@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Steven Cote"
-  avatar : ""
+  avatar : "assets/images/_Logo.png"
   bio    : " Fourth year business student, working towards CPA."
   links:
     #- label: "Website"
